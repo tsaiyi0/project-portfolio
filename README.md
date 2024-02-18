@@ -1,2 +1,2 @@
-# project-portfolio
+# Projects
 Portfolio of my projects!
